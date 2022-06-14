@@ -2,6 +2,8 @@
 
 Group Members:
 
-Azar Park 
-Sonia Mathews
-Shrabana Shruti
+ - Azar Park
+
+ - Sonia Mathews
+
+ - Shrabana Shruti
